@@ -1,0 +1,8 @@
+# Define the goal
+string text_input
+---
+# Define the result
+bool finished
+---
+# Define a feedback message
+string text_spoken

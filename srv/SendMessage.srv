@@ -1,0 +1,11 @@
+#String with message to send
+string message
+#Set the service type as one of the values below (EMAIL, TELEGRAM,...)
+int8 service
+#Message service constant
+int8 EMAIL = 0
+int8 TELEGRAM = 1
+---
+bool success
+
+

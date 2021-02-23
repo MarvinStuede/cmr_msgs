@@ -1,0 +1,5 @@
+#Enable/disable an Ultrasonic sensor for collision avoidance
+uint32 id # ID from 1 to 5. 0 for all sensors.
+bool enable #true if sensor should be enabled, false if disabled
+---
+bool success

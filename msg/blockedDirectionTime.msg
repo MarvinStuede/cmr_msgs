@@ -1,0 +1,3 @@
+int64 time_blocked
+bool left_side_blocked
+bool right_side_blocked

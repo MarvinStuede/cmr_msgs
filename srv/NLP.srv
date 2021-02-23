@@ -1,0 +1,4 @@
+string input_text
+int8 session_id
+---
+cmr_msgs/NLPAnswer nlp_answer

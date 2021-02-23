@@ -1,0 +1,10 @@
+# This service is used to set Expressions to the Face LED Matrix
+
+# Expression to set
+cmr_msgs/LEDExpression expression
+
+# Duration in seconds before resetting to normal expression
+float32 duration
+---
+
+

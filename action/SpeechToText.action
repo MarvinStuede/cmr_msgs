@@ -1,0 +1,10 @@
+# Define the goal
+bool stt_start
+# string custom_phrases
+---
+# Define the result
+string text_recognized
+bool preempt
+---
+# Define a feedback message
+string text_recognized

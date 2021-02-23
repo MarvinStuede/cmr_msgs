@@ -1,0 +1,4 @@
+bool bool
+---
+float32 editTime
+cmr_msgs/Location[] data

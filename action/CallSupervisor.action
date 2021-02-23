@@ -1,0 +1,10 @@
+# This action is used to notify a supervisor
+# Used to send a message to supervisor and enquire if a problem was fixed
+
+# GOAL
+string message # Message
+---
+# RESULT
+bool fixed
+---
+# FEEDBACK
